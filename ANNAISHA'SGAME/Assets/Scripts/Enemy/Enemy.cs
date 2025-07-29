@@ -6,6 +6,7 @@ public class Enemy : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     private Vector3 direction;
     [SerializeField] private float moveSpeed;
+    [SerializeField] private GameObject destroyEffect;
     // Update is called once per frame
     void Update()
     {
@@ -23,5 +24,13 @@ public class Enemy : MonoBehaviour
             transform.position).normalized;
         rb.linearVelocity = new Vector2(direction.x * moveSpeed, 
             direction.y * moveSpeed );
+    }
+     void OnCollisionStay2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            Destroy(gameObject);
+            Instantiate(destroyEffect, transform.position, transform.rotation);
+        }
     }
 }

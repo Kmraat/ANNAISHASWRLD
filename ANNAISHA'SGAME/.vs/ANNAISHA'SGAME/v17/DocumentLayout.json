@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\annaishasw\\annaishaswrld\\annaisha\u0027sgame\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\annaishasw\\annaishaswrld\\annaisha\u0027sgame\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\annaishasw\\annaishaswrld\\annaisha\u0027sgame\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\assets\\scripts\\utils\\animatedobjectdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\animatedobjectdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\annaishasw\\annaishaswrld\\annaisha\u0027sgame\\assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T22:44:09.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimatedObjectDestroy.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Utils\\AnimatedObjectDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\AnimatedObjectDestroy.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Utils\\AnimatedObjectDestroy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\AnimatedObjectDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T21:25:41.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Enemy\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Enemy\\Enemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T09:06:47.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
