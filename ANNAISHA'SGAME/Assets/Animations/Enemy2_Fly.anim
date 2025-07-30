@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Player_idle
+  m_Name: Enemy2_Fly
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,11 +21,11 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 827538889749247048, guid: 204bc48818b12504b9485d0b44635f75, type: 3}
-    - time: 0.4
-      value: {fileID: -5182820943178688908, guid: 204bc48818b12504b9485d0b44635f75, type: 3}
-    - time: 0.75
-      value: {fileID: 827538889749247048, guid: 204bc48818b12504b9485d0b44635f75, type: 3}
+      value: {fileID: 21300000, guid: c6b045588dfe3ef408d0c8ab6a645e88, type: 3}
+    - time: 0.5833333
+      value: {fileID: 21300000, guid: 4dc1a66abe7d3b74e8e53b46c08181de, type: 3}
+    - time: 1.1666666
+      value: {fileID: 21300000, guid: c6b045588dfe3ef408d0c8ab6a645e88, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -48,15 +48,15 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 827538889749247048, guid: 204bc48818b12504b9485d0b44635f75, type: 3}
-    - {fileID: -5182820943178688908, guid: 204bc48818b12504b9485d0b44635f75, type: 3}
-    - {fileID: 827538889749247048, guid: 204bc48818b12504b9485d0b44635f75, type: 3}
+    - {fileID: 21300000, guid: c6b045588dfe3ef408d0c8ab6a645e88, type: 3}
+    - {fileID: 21300000, guid: 4dc1a66abe7d3b74e8e53b46c08181de, type: 3}
+    - {fileID: 21300000, guid: c6b045588dfe3ef408d0c8ab6a645e88, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.76666665
+    m_StopTime: 1.1833333
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
