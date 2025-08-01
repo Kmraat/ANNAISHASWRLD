@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7123481421826260030}
   - component: {fileID: 854394943958295721}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -101,7 +101,7 @@ GameObject:
   - component: {fileID: 2895604567010718301}
   - component: {fileID: 81791648453690783}
   - component: {fileID: 8491676941787436300}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Enemy1
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spriteRenderer: {fileID: 9047670488294041500}
   rb: {fileID: 2895604567010718301}
-  moveSpeed: 0.5
+  moveSpeed: 1
   destroyEffect: {fileID: 8076816222300427813, guid: 9c8fad11739617f448337f8ab0fe218b, type: 3}
 --- !u!50 &2895604567010718301
 Rigidbody2D:
