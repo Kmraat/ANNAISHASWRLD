@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\annaishasw\\annaishaswrld\\annaisha\u0027sgame\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\annaishasw\\annaishaswrld\\annaisha\u0027sgame\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:38:24.778Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,10 +45,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIController.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\UIController.cs",
               "RelativeToolTip": "Assets\\Scripts\\UIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T08:37:39.925Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-08-02T06:52:13.168Z",
               "EditorCaption": ""
             },
             {
@@ -42,7 +58,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T08:38:51.604Z",
               "EditorCaption": ""
