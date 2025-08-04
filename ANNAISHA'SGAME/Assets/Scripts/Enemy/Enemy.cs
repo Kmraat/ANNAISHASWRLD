@@ -6,6 +6,7 @@ public class Enemy : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     private Vector3 direction;
     [SerializeField] private float moveSpeed;
+    [SerializeField] private float damage;
     [SerializeField] private GameObject destroyEffect;
     // Update is called once per frame
     void FixedUpdate()
@@ -37,7 +38,7 @@ public class Enemy : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            PlayerController.Instance.TakeDamage(1);
+            PlayerController.Instance.TakeDamage(damage);
             Destroy(gameObject);
             Instantiate(destroyEffect, transform.position, transform.rotation);
         }

@@ -194,6 +194,7 @@ MonoBehaviour:
   spriteRenderer: {fileID: 9047670488294041500}
   rb: {fileID: 2895604567010718301}
   moveSpeed: 1
+  damage: 3
   destroyEffect: {fileID: 8076816222300427813, guid: 9c8fad11739617f448337f8ab0fe218b, type: 3}
 --- !u!50 &2895604567010718301
 Rigidbody2D:
