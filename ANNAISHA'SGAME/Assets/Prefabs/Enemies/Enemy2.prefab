@@ -79,7 +79,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1553925043
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 4dc1a66abe7d3b74e8e53b46c08181de, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -193,6 +193,9 @@ MonoBehaviour:
   rb: {fileID: 7542279026218946388}
   moveSpeed: 1
   damage: 1
+  health: 5
+  experienceToGive: 2
+  pushTime: 0.5
   destroyEffect: {fileID: 8076816222300427813, guid: 9c8fad11739617f448337f8ab0fe218b, type: 3}
 --- !u!1 &7566677564149459167
 GameObject:
@@ -268,7 +271,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1553925043
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: -1
   m_Sprite: {fileID: 21300000, guid: e173e6745a81c3e4c9d27f0f7b767f50, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

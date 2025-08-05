@@ -74,7 +74,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1553925043
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: -1
   m_Sprite: {fileID: 21300000, guid: e173e6745a81c3e4c9d27f0f7b767f50, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -166,7 +166,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1553925043
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -4967942413754595029, guid: 3ee2a9006b7602e4aaf03960bfeed859, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -195,6 +195,9 @@ MonoBehaviour:
   rb: {fileID: 2895604567010718301}
   moveSpeed: 1
   damage: 3
+  health: 20
+  experienceToGive: 8
+  pushTime: 0.3
   destroyEffect: {fileID: 8076816222300427813, guid: 9c8fad11739617f448337f8ab0fe218b, type: 3}
 --- !u!50 &2895604567010718301
 Rigidbody2D:
