@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\annaishasw\\annaishaswrld\\annaisha\u0027sgame\\assets\\scripts\\utils\\damagenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\damagenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\annaishasw\\annaishaswrld\\annaisha\u0027sgame\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\annaishasw\\annaishaswrld\\annaisha\u0027sgame\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\annaishasw\\annaishaswrld\\annaisha\u0027sgame\\assets\\scripts\\weapons\\areaweaponprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\areaweaponprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\annaishasw\\annaishaswrld\\annaisha\u0027sgame\\assets\\scripts\\weapons\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\assets\\scripts\\weapons\\areaweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\areaweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\assets\\scripts\\weapons\\areaweaponprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\areaweaponprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F8FE24C-9620-30F8-0610-9D3E11833D0A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DamageNumber.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Utils\\DamageNumber.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\DamageNumber.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Utils\\DamageNumber.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Utils\\DamageNumber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:22:25.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Enemy\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Enemy\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDIAAAAZAAAAAAAAAA==",
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwD0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T06:56:34.461Z",
+              "WhenOpened": "2025-08-06T07:43:14.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Weapons\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Weapons\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:14:33.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AreaWeaponPrefab.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Weapons\\AreaWeaponPrefab.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\AreaWeaponPrefab.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Weapons\\AreaWeaponPrefab.cs",
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\AreaWeaponPrefab.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T06:21:14.54Z"
+              "WhenOpened": "2025-08-06T05:50:42.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AreaWeapon.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Weapons\\AreaWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\AreaWeapon.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\Weapons\\AreaWeapon.cs",
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\AreaWeapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T06:12:14.119Z"
+              "WhenOpened": "2025-08-06T05:50:21.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\ANNAISHASW\\ANNAISHASWRLD\\ANNAISHA\u0027SGAME\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwD8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAcwG0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T08:38:51.604Z"
+              "WhenOpened": "2025-08-01T08:38:51.604Z",
+              "EditorCaption": ""
             }
           ]
         }
