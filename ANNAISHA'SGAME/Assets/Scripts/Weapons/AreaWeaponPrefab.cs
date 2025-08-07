@@ -16,6 +16,7 @@ public class AreaWeaponPrefab : MonoBehaviour
         targetSize = Vector3.one * weapon.stats[weapon.weaponLevel].range;
         transform.localScale = Vector3.zero;
         timer = weapon.stats[weapon.weaponLevel].duration;
+        AudioController.Instance.PlayModifiedSound(AudioController.Instance.areaWeaponSpawn);
     }
 
     
@@ -31,6 +32,7 @@ public class AreaWeaponPrefab : MonoBehaviour
             if (transform.localScale.x == 0f)
             {
                 Destroy(gameObject);
+                AudioController.Instance.PlaySound(AudioController.Instance.areaWeaponDespawn);
             }
         }
 
