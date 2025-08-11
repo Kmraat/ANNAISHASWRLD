@@ -24,7 +24,7 @@ David Emmanuel Rico de la Rosa
 
 Es un juego RGP survival y terror que consta de un nivel con un personaje (principal) y enemigos (antagonista), donde la protagonista tiene que enfrentar diversos enemigos donde su única herramienta es su aura espiritual con lo que ocupará como poder especial.  El único es el bosque donde tendrá que pelear con los enemigos que le acerquen. La dificultad será moderada. El visual del juego será pixel art (8 bit) estilo anime. La clasificación del juego será para mayores de 12 años (B). Está inspirado en el juego japonés de aventura surrealista yume nikki.
 
-<img src="Pictures/Readme/yumi.png" alt="yumi" width="500">
+<img src="Pictures/Readme/yume.png" alt="yume" width="500">
 
 
 ### 1.2 Resumen de la historia del juego
