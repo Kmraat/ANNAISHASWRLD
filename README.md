@@ -52,11 +52,11 @@ El juego será creado para PC y sus controles son el teclado
 
 
 Teclas de movimiento
--Arriba (W o ↑)
--Abajo (S o ↓)
--Izquierda (A o ←)
--Derecha (D o →)
--Pausa (Esc o P)
+* Arriba (W o ↑)
+* Abajo (S o ↓)
+* Izquierda (A o ←)
+* Derecha (D o →)
+* Pausa (Esc o P)
 
 
 3\. Mundo del juego
@@ -91,7 +91,7 @@ Personaje 1
 
 2da entrega - diseños finales de personajes y escenarios  *15 de junio*
 
-3era entrega - estructura del juego visualmente  \* 5 de julio\*
+3era entrega - estructura del juego visualmente  * 5 de julio*
 
 4ta entrega - beta del juego *25 de julio*
 
