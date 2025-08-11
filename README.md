@@ -1,4 +1,4 @@
-# ANNAISHA'S WORLD :smiling_imp:
+# ANNAISHA'S WORLD :smiling_imp: :evergreen_tree: :evergreen_tree:
 
 **DESARROLLADORES**
 
@@ -7,7 +7,7 @@ Belén Guadalupe Maldonado González
 Estefanya López Pérez
 David Emmanuel Rico de la Rosa
 
-## TABLA DE EVALUACIÓN DEL EQUIPO
+## TABLA DE EVALUACIÓN DEL EQUIPO :ledger:
 
 | Nombre        |   Colaboración    |   Comunicación   |   Responsabilidad |
 |--|--|--|--|
@@ -18,7 +18,7 @@ David Emmanuel Rico de la Rosa
 
 
 
-## 1. PROPÓSITO DEL JUEGO
+## 1. PROPÓSITO DEL JUEGO :video_game: 
 
 ### 1.1 Resumen del juego
 
@@ -27,7 +27,7 @@ Es un juego RGP survival y terror que consta de un nivel con un personaje (princ
 <img src="Imagenes/yume.png" alt="yume" width="300">
 
 
-### 1.2 Resumen de la historia del juego
+### 1.2 Resumen de la historia del juego 
 
 Annaisha es una que se encuentra perdida en un bosque pero en otro mundo donde, por lo que va a través del camino  se encuentra con unos monstruos que le impiden el paso e intentarán robar su aura. 
 
@@ -46,7 +46,7 @@ Annaisha es una que se encuentra perdida en un bosque pero en otro mundo donde, 
 
 <img src="Imagenes/portada.png" alt="portada" width="200">
 
-## 2\. Jugabilidad
+## 2\. Jugabilidad :joystick:
 
 El juego será creado para PC y sus controles son el teclado
 
@@ -62,7 +62,7 @@ Teclas de movimiento
 3\. Mundo del juego
 -Bosque
 
-## 4\. Mecánicas del juego
+## 4\. Mecánicas del juego :chess_pawn:
 
 *Movimiento:* El personaje puede moverse de un lado a otro.
 *Combate:* Con las mismas teclas de movimiento.
@@ -85,7 +85,7 @@ Personaje 1
 <img src="Imagenes/prota.png" alt="annaisha2" width="200">
 
 
-## 6. Plan del proyecto
+## 6. Plan del proyecto :scroll:
 
 1era entrega - readme (historia del juego, personajes, monstruos y escenarios, portabilidad del juego) *30 de mayo*
 
