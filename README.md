@@ -22,7 +22,10 @@ David Emmanuel Rico de la Rosa
 
 ### 1.1 Resumen del juego
 
-Es un juego RGP survival y terror que consta de un nivel con un personaje (principal) y enemigos (antagonista), donde la protagonista tiene que enfrentar diversos enemigos donde su única herramienta es su aura espiritual con lo que ocupará como poder especial.  El único es el bosque donde tendrá que pelear con los enemigos que le acerquen. La dificultad será moderada. El visual del juego será pixel art (8 bit) estilo anime. La clasificación del juego será para mayores de 12 años (B).
+Es un juego RGP survival y terror que consta de un nivel con un personaje (principal) y enemigos (antagonista), donde la protagonista tiene que enfrentar diversos enemigos donde su única herramienta es su aura espiritual con lo que ocupará como poder especial.  El único es el bosque donde tendrá que pelear con los enemigos que le acerquen. La dificultad será moderada. El visual del juego será pixel art (8 bit) estilo anime. La clasificación del juego será para mayores de 12 años (B). Está inspirado en el juego japonés de aventura surrealista yume nikki.
+
+<img src="Pictures/Readme/yumi.png" alt="yumi" width="500">
+
 
 ### 1.2 Resumen de la historia del juego
 
@@ -41,11 +44,12 @@ Annaisha es una que se encuentra perdida en un bosque pero en otro mundo donde, 
 * dificultad media
 * Ataques especiales
 
+
+
 ## 2\. Jugabilidad
 
 El juego será creado para PC y sus controles son el teclado
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
 Teclas de movimiento
 -Arriba (W o ↑)
