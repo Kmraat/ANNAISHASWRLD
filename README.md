@@ -74,7 +74,7 @@ Teclas de movimiento
 
 <img src="Imagenes/juego.png" alt="pantalla" width="300">
 
-## 5\. Personajes
+## 5\. Personajes :raising_hand_woman:
 
 Personaje 1
 - Nombre: Annaisha (anni chan)
