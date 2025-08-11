@@ -24,7 +24,7 @@ David Emmanuel Rico de la Rosa
 
 Es un juego RGP survival y terror que consta de un nivel con un personaje (principal) y enemigos (antagonista), donde la protagonista tiene que enfrentar diversos enemigos donde su única herramienta es su aura espiritual con lo que ocupará como poder especial.  El único es el bosque donde tendrá que pelear con los enemigos que le acerquen. La dificultad será moderada. El visual del juego será pixel art (8 bit) estilo anime. La clasificación del juego será para mayores de 12 años (B). Está inspirado en el juego japonés de aventura surrealista yume nikki.
 
-<img src="Imagenes/yume.png" alt="yume" width="500">
+<img src="Imagenes/yume.png" alt="yume" width="300">
 
 
 ### 1.2 Resumen de la historia del juego
@@ -44,7 +44,7 @@ Annaisha es una que se encuentra perdida en un bosque pero en otro mundo donde, 
 * dificultad media
 * Ataques especiales
 
-
+<img src="Imagenes/portada.png" alt="portada" width="200">
 
 ## 2\. Jugabilidad
 
@@ -72,12 +72,17 @@ Teclas de movimiento
 
 *Objetivo:* Luchar contra los enemigos y evitar ser robada de su aura.
 
+<img src="Imagenes/juego.png" alt="pantalla" width="300">
+
 ## 5\. Personajes
 
 Personaje 1
 - Nombre: Annaisha (anni chan)
 - Propósito: Sobrevivir a los enemigos
 - Arquetipo: Héroe
+
+<img src="Imagenes/personaje.jpg" alt="annaisha" width="200" style="margin-right: 10px;">
+<img src="Imagenes/prota.png" alt="annaisha2" width="200">
 
 
 ## 6. Plan del proyecto
