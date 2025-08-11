@@ -10,7 +10,7 @@ David Emmanuel Rico de la Rosa
 ## TABLA DE EVALUACIÓN DEL EQUIPO
 
 | Nombre        |   Colaboración    |   Comunicación   |   Responsabilidad |
-
+|--|--|--|--|
 | David         |      Buena        |     Regular      |      Buena        |
 | Belén         |      Buena        |     Buena        |      Buena        |
 | Estefanya     |      Buena        |     Buena        |      Buena        |
@@ -18,7 +18,7 @@ David Emmanuel Rico de la Rosa
 
 
 
-## 1\. PROPÓSITO DEL JUEGO
+## 1. PROPÓSITO DEL JUEGO
 
 ### 1.1 Resumen del juego
 
@@ -45,6 +45,8 @@ Annaisha es una que se encuentra perdida en un bosque pero en otro mundo donde, 
 
 El juego será creado para PC y sus controles son el teclado
 
+![alt text](https://www.markdownguide.org/assets/images/tux.png)
+
 Teclas de movimiento
 -Arriba (W o ↑)
 -Abajo (S o ↓)
@@ -69,16 +71,20 @@ Teclas de movimiento
 ## 5\. Personajes
 
 Personaje 1
--Nombre: Annaisha (anni chan)
--Propósito: Sobrevivir a los enemigos
--Arquetipo: Héroe
+- Nombre: Annaisha (anni chan)
+- Propósito: Sobrevivir a los enemigos
+- Arquetipo: Héroe
 
 
-##6. Plan del proyecto
+## 6. Plan del proyecto
 
 1era entrega - readme (historia del juego, personajes, monstruos y escenarios, portabilidad del juego) *30 de mayo*
+
 2da entrega - diseños finales de personajes y escenarios  *15 de junio*
+
 3era entrega - estructura del juego visualmente  \* 5 de julio\*
+
 4ta entrega - beta del juego *25 de julio*
+
 5ta entrega- entrega final  *11 de agosto*
 
